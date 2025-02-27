@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ziv-nagish/go-commentspace-lint/pkg/analyzer"
+	"github.com/ziv-nagish/commentspace/pkg/analyzer"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
