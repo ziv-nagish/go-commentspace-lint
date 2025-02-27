@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ziv-nagish/commentspace"
+	"github.com/ziv-nagish/go-commentspace-lint"
 	"golang.org/x/tools/go/analysis"
 )
 

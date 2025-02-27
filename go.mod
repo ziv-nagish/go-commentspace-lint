@@ -1,4 +1,4 @@
-module github.com/ziv-nagish/commentspace
+module github.com/ziv-nagish/go-commentspace-lint
 
 go 1.24.0
 
